@@ -1,16 +1,19 @@
 #top{
   width: 800px;
   background-color: #dcc9f4;
-  padding: 20px 0;
+  margin-left: auto;
+  margin-right: auto;
   text-align: center;
+
 }
 
 .top-child{
-  display: inline;
-  /* width: 20%; */
+  /* display: inline; */
   background-color: #ffd9df;
   display: inline-block;
   width: 20%;
+  /* text-align: center; */
+  margin: 20px 0;
   
 }
 
@@ -18,7 +21,9 @@
   width: 800px;
   height: 800px;
   background-color: #ffd9df;
-  /* padding: 20px; */
+  margin-left: auto;
+  margin-right: auto;
+
 }
 
 .middle-child01{
@@ -52,8 +57,10 @@
 #bottom{
   width: 800px;
   height: 300px;
-  /* text-align: center; */
   background-color: #87ceeb;
+  margin-left: auto;
+  margin-right: auto;
+
 }
 
 .bottom-child01{
@@ -77,3 +84,8 @@
   position: relative;
   left: 400px;
 }
+
+
+
+
+
